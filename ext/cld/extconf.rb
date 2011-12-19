@@ -1,3 +1,4 @@
+require "rubygems"
 require "rake"
 home_dir = File.expand_path(File.join(File.dirname(__FILE__), "../../"))
 puts home_dir
